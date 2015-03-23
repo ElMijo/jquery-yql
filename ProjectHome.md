@@ -1,0 +1,1 @@
+Contiene el plugin y un tema predeterminado para los mensajes del loader
